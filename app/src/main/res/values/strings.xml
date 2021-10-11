@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="next_button">Next</string>
+    <string name="q_dog">Why dog run?</string>
+    <string name="q_true">True?</string>
+    <string name="q_false">False?</string>
+    <string name="q_next">Next?</string>
+    <string name="q_previous">Previous?</string>
+    <string name="correct_answer">It do be like that</string>
+    <string name="incorrect_answer">Poopie head</string>
+</resources>
