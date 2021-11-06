@@ -10,4 +10,7 @@
     <string name="q_previous">Previous?</string>
     <string name="correct_answer">It do be like that</string>
     <string name="incorrect_answer">Poopie head</string>
+    <string name="czy_napewno_chcesz_zobaczy_odpowied">Czy napewno chcesz zobaczyć odpowiedź?</string>
+    <string name="poka_odpowied">Pokaż odpowiedź</string>
+    <string name="answer_was_shown">Not even rolling with that</string>
 </resources>

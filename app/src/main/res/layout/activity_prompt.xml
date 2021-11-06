@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".PromptActivity">
+
+  <TextView
+      android:id="@+id/textView"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="@string/czy_napewno_chcesz_zobaczy_odpowied"
+      tools:ignore="MissingConstraints" />
+
+  <Button
+      android:id="@+id/showCorrectAnswer_Button"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="@string/poka_odpowied"
+      tools:ignore="MissingConstraints" />
+
+  <TextView
+      android:id="@+id/answerTextField"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:padding="30dp"
+      tools:ignore="MissingConstraints"
+      tools:text="Odpowiedź" />
+
+</LinearLayout>
